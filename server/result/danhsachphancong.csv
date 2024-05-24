@@ -1,0 +1,975 @@
+STT,Mã GV,Họ và tên,Giám thị 1,Giám thị 2,Phòng thi
+1,101170004,Đặng Vĩnh Chiến,x,,128
+2,106170048,Nguyễn Thanh Quốc,,x,128
+3,101170005,Đoàn Ngọc Chung,x,,129
+4,106170049,Ngô Tấn Sang,,x,129
+5,101170006,Nguyễn Đình Chung,x,,130
+6,106170050,Trần Đình Sáng,,x,130
+7,101170007,Đoàn Minh Văn Chương,x,,131
+8,106170051,Lê Văn Sơn,,x,131
+9,101170008,Phan Văn Công,x,,132
+10,106170052,Nguyễn Minh Sơn,,x,132
+11,101170009,Trần Danh Đán,x,,133
+12,106170053,Lê Ngọc Tài,,x,133
+13,101170010,Nguyễn Hải Đạt,x,,134
+14,106170054,Lê Thành Tâm,,x,134
+15,101170011,Nguyễn Tiến Đạt,x,,135
+16,106170055,Bùi Đức Thái,,x,135
+17,101170012,Nguyễn Cửu Thanh Đề,x,,136
+18,106170056,Trương Võ Thái,,x,136
+19,101170013,Đặng Trọng Đức,x,,137
+20,106170057,Đỗ Văn Thắng,,x,137
+21,101170014,Trần Hưng Đức,x,,138
+22,106170058,Lê Hoàng Minh Thanh,,x,138
+23,101170015,Lê Minh Dũng,x,,139
+24,106170059,Nguyễn Đình Thi,,x,139
+25,101170016,Nguyễn Quốc Dũng,x,,140
+26,106170060,Nguyễn Hòa Thọ,,x,140
+27,101170017,Nguyễn Hữu Tùng Dương,x,,141
+28,106170061,Trần Thị Hoài Thương,,x,141
+29,101170018,Đặng Ngọc Giang,x,,142
+30,106170062,Tôn Thất Tịnh,,x,142
+31,101170019,Đặng Hà,x,,143
+32,106170063,Trương Đức Toàn,,x,143
+33,101170020,Nguyễn Thanh Hải,x,,144
+34,106170064,Bùi Minh Trí,,x,144
+35,101170021,Trần Vĩnh Hảo,x,,145
+36,106170065,Phan Ngọc Triều,,x,145
+37,101170022,Đặng Văn Hiếu,x,,146
+38,106170066,Đặng Văn Trúc,,x,146
+39,101170023,Nguyễn Trung Hiếu,x,,147
+40,106170067,Hà Đức Trung,,x,147
+41,101170024,Võ Đăng Hiếu,x,,148
+42,106170068,Phạm Quang Trường,,x,148
+43,101170025,Trần Văn Hòa,x,,149
+44,106170069,Lê Nguyễn Minh Tuấn,,x,149
+45,101170026,Nguyễn Đình Hoàng,x,,150
+46,106170070,Nguyễn Công Tùng,,x,150
+47,101170027,Nguyễn Minh Hoàng,x,,151
+48,106170071,Hồ Nguyễn Quốc Việt,,x,151
+49,101170028,Nguyễn Mạnh Hùng,x,,152
+50,106170072,Trần Vũ,,x,152
+51,101170029,Trương Văn Hùng,x,,153
+52,106170073,Trần Thị Hoàng Yến,,x,153
+53,101170030,Lê Đức Huy,x,,154
+54,106170074,Nguyễn Long An,,x,154
+55,101170031,Trần Văn Huy,x,,155
+56,106170075,Nguyễn Đình Hùng Anh,,x,155
+57,101170032,Lê Trung Kiên,x,,156
+58,106170076,Bùi Thanh Bảo,,x,156
+59,101170033,Hoàng Phan Lâm,x,,157
+60,106170077,Nguyễn Xuân Châu,,x,157
+61,101170034,Trần Hoàng Lâm,x,,158
+62,106170078,Trương Thế Chung,,x,158
+63,101170035,Trần Quang Linh,x,,159
+64,106170079,Hoàng Tiến Đạt,,x,159
+65,101170036,Nguyễn Phan Thành Lộc,x,,160
+66,106170080,Nguyễn Thành Đạt,,x,160
+67,101170037,Phạm Đức Mạnh,x,,161
+68,106170081,Nguyễn Văn Đông,,x,161
+69,101170038,Nguyễn Văn Minh,x,,162
+70,106170082,Hoàng Khắc Dũng,,x,162
+71,101170039,Văn Nhật Nam,x,,163
+72,106170083,Nguyễn Phương Duy,,x,163
+73,101170040,Lê Đình Ngà,x,,164
+74,106170084,Nguyễn Ngọc Hà,,x,164
+75,101170041,Nguyễn Lương Nghĩa,x,,165
+76,106170085,Trương Minh Hải,,x,165
+77,101170042,Nguyễn Văn Nguyện,x,,166
+78,106170086,Lê Viết Trung Hậu,,x,166
+79,101170043,Lê Nhật,x,,167
+80,106170087,Nguyễn Văn Hiệp,,x,167
+81,101170044,Nguyễn Huỳnh Nhật,x,,168
+82,106170088,Nguyễn Phú Hiếu,,x,168
+83,101170045,Lê Thị Nhựt,x,,169
+84,106170089,Lê Văn Hòa,,x,169
+85,101170046,Ngô Văn Phú,x,,170
+86,106170090,Nguyễn Hửu Hoàn,,x,170
+87,101170047,Hà Minh Phúc,x,,171
+88,106170091,Nguyễn Nhật Hoàng,,x,171
+89,101170048,Lê Hồng Phúc,x,,172
+90,106170092,Trần Anh Hoàng,,x,172
+91,101170049,Phan Văn Phúc,x,,173
+92,106170093,Lương Vĩnh Hội,,x,173
+93,101170050,Nguyễn Tăng Phước,x,,174
+94,106170094,Lê Mạnh Hùng,,x,174
+95,101170051,Nguyễn Đức Anh Quân,x,,175
+96,106170095,Lưu Văn Hùng,,x,175
+97,101170052,Đỗ Văn Quang,x,,176
+98,106170096,Trần Hữu Hùng,,x,176
+99,101170053,Nguyễn Trần Văn Quốc,x,,177
+100,106170097,Phan Đức Hưng,,x,177
+101,101170054,Trần Đắc Sáng,x,,178
+102,106170098,Hồ Thị Hương,,x,178
+103,101170055,Đỗ Hồng Sơn,x,,179
+104,106170099,Hà Phước Huy,,x,179
+105,101170056,Đoàn Nguyên Anh Tài,x,,180
+106,106170100,Nguyễn Anh Quốc Huy,,x,180
+107,101170057,Lê Bích Tâm,x,,181
+108,106170101,Nguyễn Thanh Huy,,x,181
+109,101170058,Đỗ Minh Tân,x,,182
+110,106170102,Trần Duy Huy,,x,182
+111,101170059,Nguyễn Quốc Tế,x,,183
+112,106170103,Đỗ Duy Khánh,,x,183
+113,101170060,Nguyễn Lương Đức Hồng Thái,x,,184
+114,106170104,Phạm Duy Khương,,x,184
+115,101170061,Hà Đình Thắng,x,,185
+116,106170105,Nguyễn Viết Lãm,,x,185
+117,101170062,Ngô Xuân Thắng,x,,186
+118,106170106,Phùng Tấn Linh,,x,186
+119,101170063,Phan Dũng Thắng,x,,187
+120,106170107,Võ Thành Long,,x,187
+121,101170064,Trần Ngọc Thành,x,,188
+122,106170108,Trần Thị Thảo Ly,,x,188
+123,101170065,Bùi Thế Thiên,x,,189
+124,106170109,Trần Xuân Thanh Minh,,x,189
+125,101170066,Nguyễn Công Thiện,x,,190
+126,106170110,Ngô Viết Hoài Nam,,x,190
+127,101170067,Huỳnh Văn Thịnh,x,,191
+128,106170111,Dương Thị Nghị,,x,191
+129,101170068,Phan Minh Thọ,x,,192
+130,106170112,Lê Thị Bích Ngọc,,x,192
+131,101170069,Huỳnh Văn Thu,x,,193
+132,106170113,Nguyễn Trung Nguyên,,x,193
+133,101170070,Lê Tự Tiến,x,,194
+134,106170114,Nguyễn Bá Nhân,,x,194
+135,101170071,Phan Văn Tới,x,,195
+136,106170115,Nguyễn Phan Nhật,,x,195
+137,101170072,Nguyễn Kế Trọng,x,,196
+138,106170116,Nguyễn Trường Long Phi,,x,196
+139,101170073,Lê Anh Tú,x,,197
+140,106170117,Trần Công Minh Phú,,x,197
+141,101170074,Nguyễn Anh Tuấn,x,,198
+142,106170118,Lại Thế Phúc,,x,198
+143,101170075,Nguyễn Văn Tuấn,x,,199
+144,106170119,Dương Đình Phương,,x,199
+145,101170076,Hoàng Nhật Tuyên,x,,200
+146,106170120,Nguyễn Đức Anh Quân,,x,200
+147,101170077,Lê Phụ Vân,x,,201
+148,106170121,Nguyễn Văn Minh Quang,,x,201
+149,101170078,Lê Quốc Việt,x,,202
+150,106170122,Trần Văn Rê,,x,202
+151,101170079,Lâm Quốc Vũ,x,,203
+152,106170123,Nguyễn Thanh Sang,,x,203
+153,101170080,Trần Hoàng Vũ,x,,204
+154,106170124,Trương Hồng Sáng,,x,204
+155,111160014,Võ Đình Cường,x,,205
+156,106170125,Nguyễn Công Sơn,,x,205
+157,101170081,Trần Viết An,x,,206
+158,106170126,Phạm Văn Sỹ,,x,206
+159,101170082,Lê Văn Bắc,x,,207
+160,106170127,Võ Công Tài,,x,207
+161,101170083,Trần Cao Dy Bảo,x,,208
+162,106170128,Phạm Văn Tâm,,x,208
+163,101170084,Võ Thành Châu,x,,209
+164,106170129,Nguyễn Cảnh Thái,,x,209
+165,101170085,Trần Đình Chiến,x,,210
+166,106170130,Cao Ngọc Thắng,,x,210
+167,101170086,Lê Văn Chung,x,,211
+168,106170131,Nguyễn Văn Thắng,,x,211
+169,101170087,Nguyễn Văn Chung,x,,212
+170,106170132,Nguyễn Tiến Thành,,x,212
+171,101170088,Nguyễn Đức Thành Công,x,,213
+172,106170133,Đinh Phan Thiện,,x,213
+173,101170089,Nguyễn Văn Cường,x,,214
+174,106170134,Tăng Thị Anh Thư,,x,214
+175,101170090,Nguyễn Bảo Danh,x,,215
+176,106170135,Trần Anh Tin,,x,215
+177,101170091,Nguyễn Phi Đạt,x,,216
+178,106170136,Nguyễn Phước Toàn,,x,216
+179,101170092,Võ Xuân Đạt,x,,217
+180,106170137,Võ Đức Toàn,,x,217
+181,101170093,Nguyễn Tuấn Điệp,x,,218
+182,106170138,Hoàng Minh Trí,,x,218
+183,101170094,Đậu Thế Đức,x,,219
+184,106170139,Phan Quốc Triều,,x,219
+185,101170095,Võ Hữu Đức,x,,220
+186,106170140,Đoàn Thị Thanh Trúc,,x,220
+187,101170096,Nguyễn Đình Anh Dũng,x,,221
+188,106170141,Lê Thanh Trung,,x,221
+189,101170097,Nguyễn Cảnh Dương,x,,222
+190,106170142,Nguyễn Thị Tú,,x,222
+191,101170098,Võ Tấn Duy,x,,223
+192,106170143,Phan Anh Tuấn,,x,223
+193,101170099,Nguyễn Hữu Giáp,x,,224
+194,106170144,Nguyễn Quang Tùng,,x,224
+195,101170100,Đặng Ngọc Tính Hải,x,,225
+196,106170145,Lê Hoàng Vũ,,x,225
+197,101170101,Phạm Xuân Hải,x,,226
+198,106170146,Võ Minh Vương,,x,226
+199,101170102,Đặng Minh Hiếu,x,,227
+200,106170147,Đinh Trần Việt Anh,,x,227
+201,101170103,Lê Minh Hiếu,x,,228
+202,106170148,Nguyễn Thị Tú Anh,,x,228
+203,101170104,Nguyễn Văn Hiếu,x,,229
+204,106170149,Hoàng Gia Bảo,,x,229
+205,101170105,Võ Minh Hiếu,x,,230
+206,106170150,Nguyễn Ngọc Chính,,x,230
+207,101170106,Nguyễn Công Hoàng,x,,231
+208,106170151,Ngô Quang Cường,,x,231
+209,101170107,Nguyễn Đức Hoàng,x,,232
+210,106170152,Lương Văn Đạt,,x,232
+211,101170108,Phan Thiên Hoàng,x,,233
+212,106170153,Võ Công Đạt,,x,233
+213,101170109,Phan Mạnh Hùng,x,,234
+214,106170154,Lê Đậu Trí Dũng,,x,234
+215,101170110,Phạm Nhật Hưng,x,,235
+216,106170155,Phạm Minh Duy,,x,235
+217,101170111,Nguyễn Tài Huy,x,,236
+218,106170156,Nguyễn Lê Trường Hải,,x,236
+219,101170112,Võ Quang Huy,x,,237
+220,106170157,Nguyễn Hữu Hạnh,,x,237
+221,101170113,Phan Hoài Khanh,x,,238
+222,106170158,Phạm Thị Hải Hậu,,x,238
+223,101170114,Nguyễn Trọng Khương,x,,239
+224,106170159,Hồ Hữu Quang Hiếu,,x,239
+225,101170115,Vũ Trung Kiên,x,,240
+226,106170160,Phan Văn Hiếu,,x,240
+227,101170116,Phạm Hồng Lâm,x,,241
+228,106170161,Nguyễn Văn Hòa,,x,241
+229,101170117,Lê Duy Linh,x,,242
+230,106170162,Trần Quốc Hoàn,,x,242
+231,101170118,Võ Duy Linh,x,,243
+232,106170163,Nguyễn Vũ Hoàng,,x,243
+233,101170119,Bùi Tiến Lợi,x,,244
+234,106170164,Trần Việt Hoàng,,x,244
+235,101170120,Trịnh Đình Mão,x,,245
+236,106170165,Võ Công Huân,,x,245
+237,101170121,Tôn Thất Minh,x,,246
+238,106170166,Lê Trương Việt Hùng,,x,246
+239,101170122,Võ Hoài Nam,x,,247
+240,106170167,Phan Sỹ Hùng,,x,247
+241,101170123,Dương Bá Nghĩa,x,,248
+242,106170168,Đỗ Quốc Hưng,,x,248
+243,101170124,Đinh Văn Nguyên,x,,249
+244,106170169,Trần Đình Hưng,,x,249
+245,101170125,Huỳnh Công Nhạc,x,,250
+246,106170170,Trương Thị Mỹ Hương,,x,250
+247,101170126,Nguyễn Duy Nhật,x,,251
+248,106170171,Lê Đức Huy,,x,251
+249,101170127,Nguyễn Minh Nhật,x,,252
+250,106170172,Nguyễn Minh Huy,,x,252
+251,101170128,Đặng Quang Phiên,x,,253
+252,106170173,Nguyễn Thanh Hà Huy,,x,253
+253,101170129,Trần Hoàng Phong,x,,254
+254,106170174,Trần Ngọc Huỳnh,,x,254
+255,101170130,Trần Văn Phú,x,,255
+256,106170175,Trần Đại Gia Khánh,,x,255
+257,101170131,Hoàng Khắc Phúc,x,,256
+258,106170176,Huỳnh Thanh Lâm,,x,256
+259,101170132,Nguyễn Văn Phúc,x,,257
+260,106170177,Nguyễn Thị Lệ,,x,257
+261,101170133,Trần Hoàng Phúc,x,,258
+262,106170178,Lê Trần Đức Long,,x,258
+263,101170134,Trần Đình Phương,x,,259
+264,106170179,Võ Xuân Luân,,x,259
+265,101170135,Nguyễn Việt Quân,x,,260
+266,106170180,Silavy Mailo,,x,260
+267,101170136,Võ Nhật Quang,x,,261
+268,106170181,Đoàn Quang Nhật Minh,,x,261
+269,101170137,Nguyễn Văn Quyền,x,,262
+270,106170182,Hoàng Bảo Nam,,x,262
+271,101170138,Nguyễn Duy Sáng,x,,263
+272,106170183,Nguyễn Sỹ Hoàng Nam,,x,263
+273,101170139,Trần Văn Sĩ,x,,264
+274,106170184,Đoàn Trọng Nghĩa,,x,264
+275,101170140,Nguyễn Văn Sỹ,x,,265
+276,106170185,Lê Thị Nguyên,,x,265
+277,101170141,Trần Thanh Tâm,x,,266
+278,106170186,Hà Phước Thành Nhân,,x,266
+279,101170142,Nguyễn Quang Tấn,x,,267
+280,106170187,Phạm Đình Nhân,,x,267
+281,101170143,Lê Phạm Quang Thái,x,,268
+282,106170188,Trần Văn Nhật,,x,268
+283,101170144,NguyễN Sỹ TháI,x,,269
+284,106170189,Nguyễn Lê Nhật Phong,,x,269
+285,101170145,Hoàng Phước Thắng,x,,270
+286,106170190,Cao Quãng Minh Phúc,,x,270
+287,101170146,Phạm Văn Thắng,x,,271
+288,106170191,Nguyễn Minh Phúc,,x,271
+289,101170147,Lê Trung Thanh,x,,272
+290,106170192,Huỳnh Duy Phương,,x,272
+291,101170148,Nguyễn Đức Thảo,x,,273
+292,106170193,Nguyễn Văn Quân,,x,273
+293,101170149,Hà Đức Thiện,x,,274
+294,106170194,Nguyễn Hữu Quốc,,x,274
+295,101170150,Trương Hoàng Thiện,x,,275
+296,106170195,Phan Duy Rin,,x,275
+297,101170151,Nguyễn Quý Thịnh,x,,276
+298,106170196,Hoàng Trọng Sang,,x,276
+299,101170152,Trần Phong Thọ,x,,277
+300,106170197,Phan Tấn Sang,,x,277
+301,101170153,Lê Thạc Thùy,x,,278
+302,106170198,Đỗ Tuấn Sơn,,x,278
+303,101170154,Nguyễn Trung Tín,x,,279
+304,106170199,Nguyễn Đức Sơn,,x,279
+305,101170155,Nguyễn Nho Trịnh,x,,280
+306,106170200,Đặng Tấn Tài,,x,280
+307,101170156,Nguyễn Hữu Trưởng,x,,281
+308,106170201,Võ Văn Tài,,x,281
+309,101170165,Cao Đình Ái,x,,282
+310,106170202,Hoàng Thiên Tân,,x,282
+311,101170166,Trần Tiến Anh,x,,283
+312,106170203,Nguyễn Quang Thái,,x,283
+313,101170167,Hồ Viết Bảo,x,,284
+314,106170204,Đặng Quốc Thắng,,x,284
+315,101170168,Lê Hoàng Bửu,x,,285
+316,106170205,Phạm Hoàng Thắng,,x,285
+317,101170169,Huỳnh Văn Chiến,x,,286
+318,106170206,Lý Đình Thi,,x,286
+319,101170170,Trương Văn Chương,x,,287
+320,106170207,Dương Phú Thiện,,x,287
+321,101170171,Nguyễn Văn Cường,x,,288
+322,106170208,Nguyễn Phước Thuận,,x,288
+323,101170172,Hồ Minh Đạt,x,,289
+324,106170209,Lương Thanh Tín,,x,289
+325,101170173,Cao Văn Đông,x,,290
+326,106170210,Phan Thanh Toàn,,x,290
+327,101170174,Nguyễn Minh Đức,x,,291
+328,106170211,Phạm Thu Trang,,x,291
+329,101170175,Phạm Sự Đông Dương,x,,292
+330,106170212,Trương Minh Triết,,x,292
+331,101170176,Nguyễn Hưng Giao,x,,293
+332,106170213,Võ Trung Trọng,,x,293
+333,101170177,Đặng Minh Hiếu,x,,294
+334,106170214,Huỳnh Văn Trúc,,x,294
+335,101170178,Vũ Minh Hiếu,x,,295
+336,106170215,Mạc Duy Trung,,x,295
+337,101170179,Ngô Hoàng,x,,296
+338,106170216,Nguyễn Viết Tuân,,x,296
+339,101170180,Trần Bá Hoàng,x,,297
+340,106170217,Phan Anh Tuấn,,x,297
+341,101170181,Nguyễn Văn Hùng,x,,298
+342,106170218,Hà Quốc Việt,,x,298
+343,101170182,Nguyễn Tấn Hưng,x,,299
+344,106170219,Nguyễn Xuân Minh Vũ,,x,299
+345,101170183,Lê Tự Huy,x,,300
+346,106170220,Trần Văn Ý,,x,300
+347,101170184,Ngô Hoàng Huy,x,,301
+348,106170221,Phan Tuấn Anh,,x,301
+349,101170185,Phan Minh Huy,x,,302
+350,106170222,Nguyễn Phạm Hòa Bình,,x,302
+351,101170186,Nguyễn Bá Khải,x,,303
+352,106170223,Trần Thanh Cự,,x,303
+353,101170187,Lê Ngọc Khánh,x,,304
+354,106170224,Nguyễn Hữu Cường,,x,304
+355,101170188,Trần Thành Khoa,x,,305
+356,106170225,Nguyễn Thành Cường,,x,305
+357,101170189,Phan Công Kỷ,x,,306
+358,106170226,Trần Ngọc Cường,,x,306
+359,101170190,Trần Đại Lâm,x,,307
+360,106170227,Hà Vĩnh Đạt,,x,307
+361,101170191,Nguyễn Thanh Lộc,x,,308
+362,106170228,Châu Phước Định,,x,308
+363,101170192,Trương Lê Lợi,x,,309
+364,106170229,Nguyễn Trương Công Định,,x,309
+365,101170193,Nguyễn Luân,x,,310
+366,106170230,Hoàng Xuân Đức,,x,310
+367,101170194,Nghiêm Tuấn Minh,x,,311
+368,106170231,Phạm Minh Đức,,x,311
+369,101170195,Trần Công Minh,x,,312
+370,106170232,Đặng Văn Hải,,x,312
+371,101170196,Huỳnh Minh Nghĩa,x,,313
+372,106170233,Hồ Văn Hải,,x,313
+373,101170197,Đoàn Chí Nhật,x,,314
+374,106170234,Trần Hữu Hoàng,,x,314
+375,101170198,Nguyễn Viết Như,x,,315
+376,106170235,Phan Quang Hợp,,x,315
+377,101170199,Lê Minh Phong,x,,316
+378,106170236,Nguyễn Đức Huy,,x,316
+379,101170200,Trịnh Hồng Phúc,x,,317
+380,106170237,Trần Quốc Huy,,x,317
+381,101170201,Trần Duy Phương,x,,318
+382,106170238,Cao Đỗ Khang,,x,318
+383,101170202,Trần Văn Phượng,x,,319
+384,106170239,Lê Quốc Khánh,,x,319
+385,101170203,Võ Đức Quãng,x,,320
+386,106170240,Lê Anh Khoa,,x,320
+387,101170204,Võ Văn Quý,x,,321
+388,106170241,Lê Văn Lâm,,x,321
+389,101170205,Võ Phước Quyền,x,,322
+390,106170242,Nguyễn Duy Lân,,x,322
+391,101170206,Hoàng Đình Sao,x,,323
+392,106170243,Nguyễn Hoàng Lộc,,x,323
+393,101170207,Nguyễn Hoàng Sơn,x,,324
+394,106170244,Lê Đức Minh,,x,324
+395,101170208,Nguyễn Văn Tâm,x,,325
+396,106170245,Nguyễn Phước Bảo Minh,,x,325
+397,101170209,Nguyễn Trần Minh Tấn,x,,326
+398,106170246,Nguyễn Quang Minh,,x,326
+399,101170210,Huỳnh Minh Thắng,x,,327
+400,106170247,Nguyễn Phương Nam,,x,327
+401,101170211,Lê Văn Thành,x,,328
+402,106170248,Nguyễn Thành Nam,,x,328
+403,101170212,Bùi Nguyễn Quý Thi,x,,329
+404,106170249,Lê Thị Bích Ngọc,,x,329
+405,101170213,Trần Duy Thịnh,x,,330
+406,106170250,Hà Thị Nhàn,,x,330
+407,101170214,Huỳnh Văn Thuận,x,,331
+408,106170251,Nguyễn Duy Phú,,x,331
+409,101170215,Nguyễn Tấn Tiến,x,,332
+410,106170252,'R''Com Bảo Phú',,x,332
+411,101170216,Hoàng Xuân Tình,x,,333
+412,106170253,Nguyễn Hoàng Phúc,,x,333
+413,101170217,Lê Thị Trúc,x,,334
+414,106170254,Hồ Duy Phương,,x,334
+415,101170218,Đặng Ngọc Tú,x,,335
+416,106170255,Trịnh Thị Phương,,x,335
+417,101170219,Nguyễn Cảnh Tú,x,,336
+418,106170256,Hồ Nhật Quân,,x,336
+419,101170220,Thái Đình Anh Tuấn,x,,337
+420,106170257,Lê Thế Ngọc Quốc,,x,337
+421,101170221,Lê Minh Vinh,x,,338
+422,106170258,Phan Quy,,x,338
+423,101170222,Nguyễn Thiên Vương,x,,339
+424,106170259,Lê Văn Hồng Sơn,,x,339
+425,101170281,Nguyễn Nhật Anh,x,,340
+426,106170260,Đào Minh Tâm,,x,340
+427,101170282,Nguyễn Công Bằng,x,,341
+428,106170261,Trần Nguyên Thành,,x,341
+429,101170283,Nguyễn Phú Bình,x,,342
+430,106170262,Nguyễn Lịch Thiệp,,x,342
+431,101170284,Huỳnh Nam Cao,x,,343
+432,106170263,Nguyễn Huỳnh Anh Thư,,x,343
+433,101170285,Nguyễn Văn Chiến,x,,344
+434,106170264,Lê Nguyễn Minh Thuận,,x,344
+435,101170286,Nguyễn Đức Cường,x,,345
+436,106170265,Trần Thái Thương,,x,345
+437,101170287,Phan Thành Danh,x,,346
+438,106170266,Nguyễn Thái Tiến,,x,346
+439,101170288,Lê Thúc Định,x,,347
+440,106170267,Lê Văn Toàn,,x,347
+441,101170289,Dương Anh Đức,x,,348
+442,106170268,Nguyễn Minh Đức Toàn,,x,348
+443,101170290,Ngô Phi Dương,x,,349
+444,106170269,Nguyễn Văn Đức Trọng,,x,349
+445,101170291,Võ Quang Trường Giang,x,,350
+446,106170270,Nguyễn Văn Trường,,x,350
+447,101170292,Huỳnh Trung Hậu,x,,351
+448,106170271,Trần Xuân Anh Tuấn,,x,351
+449,101170293,Nguyễn Minh Hiếu,x,,352
+450,106170272,Nguyễn Thị Tuyến,,x,352
+451,101170294,Đỗ Huy Hoàng,x,,353
+452,106170273,Nguyễn Đức Lê Văn,,x,353
+453,101170295,Thái Đình Hoàng,x,,354
+454,106170274,Đoàn Triệu Vĩ,,x,354
+455,101170296,Hoàng Bá Hùng,x,,355
+456,106170275,Nguyễn Văn Việt,,x,355
+457,101170297,Nguyễn Quang Hưng,x,,356
+458,106170276,Nguyễn Văn Hoàng Việt,,x,356
+459,101170298,Trương Tấn Hưng,x,,357
+460,106170277,Lê Đức Vinh,,x,357
+461,101170157,Trương Văn Tư,x,,358
+462,107170001,Huỳnh Thị Kim Anh,,x,358
+463,101170158,Nguyễn Đình Tuấn,x,,359
+464,107170002,Nguyễn Đắc Kiều Anh,,x,359
+465,101170159,Trần Đăng Tuấn,x,,360
+466,107170003,Phan Thị Ngọc Bích,,x,360
+467,101170160,Huỳnh Minh Tý,x,,361
+468,107170004,Hoàng Hà Chi,,x,361
+469,101170161,Quách Nhật Vàng,x,,362
+470,107170005,Cao Thị Diệu,,x,362
+471,101170162,Châu Văn Vũ,x,,363
+472,107170006,Đặng Văn Đức,,x,363
+473,101170163,Phạm Thanh Vũ,x,,364
+474,107170007,Ngô Minh Đức,,x,364
+475,101170164,Đỗ Trọng Vỹ,x,,365
+476,107170008,Trần Quang Đức,,x,365
+477,101170223,Dương Việt Anh,x,,366
+478,107170009,Đặng Thị Thùy Dung,,x,366
+479,101170224,Phan Quốc Bản,x,,367
+480,107170010,Trương Thị Thùy Dung,,x,367
+481,101170225,Mai Đoàn Hữu Bích,x,,368
+482,107170011,Lữ Trung Dũng,,x,368
+483,101170226,Phan Quang Cảnh,x,,369
+484,107170012,Phan Thị Thuỳ Dương,,x,369
+485,101170227,Nguyễn Minh Chiến,x,,370
+486,107170013,Võ Thị Thùy Dương,,x,370
+487,101170228,Nguyễn Công Cường,x,,371
+488,107170014,Võ Thị Hậu Giang,,x,371
+489,101170229,Hoàng Công Danh,x,,372
+490,107170015,Lê Thị Hà,,x,372
+491,101170230,Nguyễn Đăng Điệp,x,,373
+492,107170016,Trương Thị Hằng,,x,373
+493,101170231,Nguyễn Thế Đông,x,,374
+494,107170017,Lê Thị Hậu,,x,374
+495,101170232,Nguyễn Văn Hoàng Đức,x,,375
+496,107170018,Hà Thị Thu Hiền,,x,375
+497,101170233,Võ Quang Dũng,x,,376
+498,107170019,Nguyễn Thị Thảo Hiền,,x,376
+499,101170234,Lê Khắc Duyên,x,,377
+500,107170020,Nguyễn Thị Thu Hiền,,x,377
+501,101170235,Nguyễn Văn Hải,x,,378
+502,107170021,Nguyễn Văn Hiếu,,x,378
+503,101170236,Hà Minh Hiếu,x,,379
+504,107170022,Lê Phước Huy,,x,379
+505,101170237,Nguyễn Vũ Hòa,x,,380
+506,107170023,Lê Quang Huy,,x,380
+507,101170238,Phan Ngọc Hoàng,x,,381
+508,107170024,Lê Mỹ Linh,,x,381
+509,101170239,Nguyễn Hồng Huân,x,,382
+510,107170025,Nguyễn Thị Mỹ Linh,,x,382
+511,101170240,Nguyễn Chấn Hưng,x,,383
+512,107170026,Vũ Thị Linh,,x,383
+513,101170241,Trần Đỗ Phước Hưng,x,,384
+514,107170027,Ngô Thị Bé Ly,,x,384
+515,101170242,Lê Văn Huy,x,,385
+516,107170028,Phan Thị Kiều Mơ,,x,385
+517,101170243,Nguyễn Ngọc Huy,x,,386
+518,107170029,Nguyễn Thị Diệu My,,x,386
+519,101170244,Trần Quốc Huy,x,,387
+520,107170030,Lê Thị Kim Ngân,,x,387
+521,101170245,Nguyễn Duy Khan,x,,388
+522,107170031,Nguyễn Thị Ngân,,x,388
+523,101170246,Nguyễn Khánh,x,,389
+524,107170032,Phan Thị Ái Nghĩa,,x,389
+525,101170247,Lê Tuấn Kiệt,x,,390
+526,107170033,Lê Thị Ngoan,,x,390
+527,101170248,Lê Trường Lâm,x,,391
+528,107170034,Trần Nử Hồng Ngọc,,x,391
+529,101170249,Hồ Thanh Lịch,x,,392
+530,107170035,Phạm Thị Phương Nguyên,,x,392
+531,101170250,Võ Công Thành Lộc,x,,393
+532,107170036,Lê Thị Minh Nhàn,,x,393
+533,101170251,Lê Văn Long,x,,394
+534,107170037,Cao Thị Yến Nhi,,x,394
+535,101170252,Nguyễn Cảnh Lực,x,,395
+536,107170038,Nguyễn Quỳnh Nhi,,x,395
+537,101170253,Nguyễn Công Minh,x,,396
+538,107170039,Huỳnh Thị Hồng Nhung,,x,396
+539,101170255,Lương Hữu Ngọc,x,,397
+540,107170040,Phan Thị Nở,,x,397
+541,101170256,Dương Đức Nhật,x,,398
+542,107170041,Hồ Thị Thanh Phúc,,x,398
+543,101170257,Võ Viết Pháp,x,,399
+544,107170042,Nguyễn Văn Phước,,x,399
+545,101170258,Hoàng Việt Phúc,x,,400
+546,107170043,Nguyễn Thị Thảo Phương,,x,400
+547,101170259,Nguyễn Thanh Phụng,x,,401
+548,107170044,Đoàn Thị Bích Phượng,,x,401
+549,101170260,Trần Thị Thu Phương,x,,402
+550,107170045,Nguyễn Xuân Quang,,x,402
+551,101170261,Nguyễn Đăng Quang,x,,403
+552,107170046,Đinh Thị Như Quỳnh,,x,403
+553,101170262,Trần Như Minh Quý,x,,404
+554,107170047,Võ Thị Như Quỳnh,,x,404
+555,101170263,Hồ Lê Sỉ Quyền,x,,405
+556,107170048,Trần Thị Châu Sa,,x,405
+557,101170264,Lê Đình Quyết,x,,406
+558,107170049,Nguyễn Thị Sen,,x,406
+559,101170265,Dương Văn Sơn,x,,407
+560,107170050,Nguyễn Văn Sơn,,x,407
+561,101170266,Phạm Ngọc Sơn,x,,408
+562,107170051,Bùi Thị Thu Sương,,x,408
+563,101170267,Nguyễn Đức Tân,x,,409
+564,107170052,Bạch Văn Tài,,x,409
+565,101170268,Nguyễn Như Thạch,x,,410
+566,107170053,Phạm Thị Đức Thanh,,x,410
+567,101170269,Trần Quốc Thắng,x,,411
+568,107170054,Dương Thị Thảo,,x,411
+569,101170270,Nguyễn Văn Thành,x,,412
+570,107170055,Lê Thị Phương Thảo,,x,412
+571,101170271,Hoàng Trọng Hữu Thiện,x,,413
+572,107170056,Nguyễn Thị Phương Thảo,,x,413
+573,101170272,Nguyễn Văn Thọ,x,,414
+574,107170057,Nguyễn Thị Thu Thảo,,x,414
+575,101170273,Nguyễn Thành Thuật,x,,415
+576,107170058,Trần Thị Thanh Thảo,,x,415
+577,101170274,Phan Văn Tiến,x,,416
+578,107170059,Trương Thị Thu Thảo,,x,416
+579,101170275,Trần Viết Toản,x,,417
+580,107170060,Ngô Thị Hoài Thu,,x,417
+581,101170276,Vũ Đức Trung,x,,418
+582,107170061,Trần Thị Thu,,x,418
+583,101170277,Đoàn Anh Tú,x,,419
+584,107170062,Nguyễn Thị Hồng Thúy,,x,419
+585,101170278,Đoàn Ngọc Tứ,x,,420
+586,107170063,Nguyễn Thị Bích Thủy,,x,420
+587,101170279,Trần Văn Tuấn,x,,421
+588,107170064,Hồ Thị Thanh Trà,,x,421
+589,101170280,Nguyễn Duy Vinh,x,,422
+590,107170065,Trần Ngọc Trâm,,x,422
+591,101170299,Ngô Hái Huy,x,,423
+592,107170066,Đỗ Nguyễn Huyền Trân,,x,423
+593,101170300,Nguyễn Quang Huy,x,,424
+594,107170067,Mang Bảo Trân,,x,424
+595,101170301,Cao Vân Hy,x,,425
+596,107170068,Mai Thị Trang,,x,425
+597,101170302,Hồ Quốc Khánh,x,,426
+598,107170069,Nguyễn Phan Kiều Trinh,,x,426
+599,101170303,Trương Văn Khánh,x,,427
+600,107170070,Nguyễn Thanh Trọng,,x,427
+601,101170304,Nguuyễn Tú Kiệt,x,,428
+602,107170071,Trần Thị Thanh Tú,,x,428
+603,101170305,Nguyễn Văn Quốc Lâm,x,,429
+604,107170072,Phạm Thị Như Tuyền,,x,429
+605,101170306,Lê Văn Linh,x,,430
+606,107170073,Lê Nguyễn Tố Uyên,,x,430
+607,101170307,Lê Chiêu Lợi,x,,431
+608,107170074,Nguyễn Thị Hồng Uyên,,x,431
+609,102170001,Nguyễn Thị Duy An,x,,432
+610,107170075,Đỗ Cẩm Vân,,x,432
+611,102170002,Tô Việt Anh,x,,433
+612,107170076,Nguyễn Thị Vân,,x,433
+613,102170003,Nguyễn Gia Bảo,x,,434
+614,107170077,Trương Thị Thảo Vi,,x,434
+615,102170004,Phan Văn Ben,x,,435
+616,107170078,Lê Phạm Hồng Vy,,x,435
+617,102170005,Phan Thành Bình,x,,436
+618,107170079,Phan Thị Như Ý,,x,436
+619,102170006,Ngô Thị Cảnh,x,,437
+620,107170080,Trương Thị Như Ý,,x,437
+621,102170007,Lê Văn Chiến,x,,438
+622,107170290,Nguyễn Thị Kim Anh,,x,438
+623,102170008,Lý Phước Công,x,,439
+624,107170291,Lê Hồ Thảo Chi,,x,439
+625,102170009,Lê Văn Cường,x,,440
+626,107170292,Trương Thị Kim Cúc,,x,440
+627,102170010,Nguyễn Vĩnh Đạt,x,,441
+628,107170293,Trương Thị Thúy Diểm,,x,441
+629,102170011,Lê Phước Định,x,,442
+630,107170294,Biện Tiến Đồng,,x,442
+631,102170012,Lê Hữu Đức,x,,443
+632,107170295,Phan Thị Trường Giang,,x,443
+633,102170013,Phan Trọng Đức,x,,444
+634,107170296,Võ Thị Thu Hà,,x,444
+635,102170014,Phạm Quí Dương,x,,445
+636,107170297,Lê Thị Hằng,,x,445
+637,102170015,Phạm Phú Duy,x,,446
+638,107170298,Nguyễn Thị Bảo Hiền,,x,446
+639,102170016,Phạm Tuấn Hải,x,,447
+640,107170299,Nguyễn Thị Hiếu,,x,447
+641,102170017,Nguyễn Minh Hiển,x,,448
+642,107170300,Lê Trương Phú Hùng,,x,448
+643,102170018,Bùi Văn Hóa,x,,449
+644,107170301,Nguyễn Thị Thu Hường,,x,449
+645,102170019,Đoàn Văn Hoàng,x,,450
+646,107170302,Lê Thị Khánh Huyền,,x,450
+647,102170020,Trần Huy Hoàng,x,,451
+648,107170303,Trần Thị Thu Lài,,x,451
+649,102170021,Nguyễn Thị Hồng,x,,452
+650,107170304,Nguyễn Hữu Lộc,,x,452
+651,102170022,Trương Quang Hùng,x,,453
+652,107170305,Võ Hoàng Long,,x,453
+653,102170023,Tôn Thất Hưng,x,,454
+654,107170306,Trần Thị Diễm My,,x,454
+655,102170024,Hoàng Phạm Quang Huy,x,,455
+656,107170307,Phạm Như Ngà,,x,455
+657,102170025,Nguyễn Quang Huy,x,,456
+658,107170308,Hoàng Minh Nguyệt,,x,456
+659,102170026,Phan Văn Khải,x,,457
+660,107170309,Hồ Thị Tố Nhi,,x,457
+661,102170027,Trần Duy Khánh,x,,458
+662,107170310,Thái Vân Nhi,,x,458
+663,102170028,Trần Trung Đăng Khoa,x,,459
+664,107170311,Lê Thị Quỳnh Như,,x,459
+665,102170029,Hoàng Trọng Kiên,x,,460
+666,107170312,Quách Thị Quỳnh Nhung,,x,460
+667,102170030,Hồ Văn Anh Kim,x,,461
+668,107170313,Trịnh Thành Phước,,x,461
+669,102170031,Phạm Thanh Lâm,x,,462
+670,107170314,Phan Thị Thu Phương,,x,462
+671,102170032,Hoàng Minh Lộc,x,,463
+672,107170315,Hồ Văn Tâm,,x,463
+673,102170033,Hồ Duy Long,x,,464
+674,107170316,Trương Thị Thanh Thảo,,x,464
+675,102170034,Lê Bá Lương,x,,465
+676,107170317,Lê Thị Thùy Trâm,,x,465
+677,102170035,Nguyễn Đức Mạnh,x,,466
+678,107170318,Bùi Thục Trinh,,x,466
+679,102170036,Lê Trung Nam,x,,467
+680,107170319,Phạm Nguyễn Xuân Trinh,,x,467
+681,102170037,Bùi Thị Nga,x,,468
+682,107170320,Hoàng Thị Ánh Tuyết,,x,468
+683,102170038,Lê Văn Nghĩa,x,,469
+684,107170321,Lê Nguyễn Tường Vy,,x,469
+685,102170039,Phạm Thị Nguyệt,x,,470
+686,107170322,Lê Thị Yên,,x,470
+687,102170040,Nguyễn Ngọc Quang Nhân,x,,471
+688,107170323,Dương Tấn Bảo,,x,471
+689,102170041,Ngô Minh Nhật,x,,472
+690,107170324,Nguyễn Thị Kim Chi,,x,472
+691,102170042,Nguyễn Quang Phiêu,x,,473
+692,107170325,Hoàng Tiến Hải Đăng,,x,473
+693,102170043,Trịnh Thanh Phú,x,,474
+694,107170326,Nguyễn Thị Đông,,x,474
+695,102170044,Ngô Nguyên Phúc,x,,475
+696,107170327,Nguyễn Thị Kim Dung,,x,475
+697,102170045,Nguyễn Văn Hữu Phước,x,,476
+698,107170328,Phạm Vũ Thu Hà,,x,476
+699,102170046,Phạm Văn Phương,x,,477
+700,107170329,Phan Đại Hải,,x,477
+701,102170047,Trần Gia Hồng Quân,x,,478
+702,107170330,Nguyễn Thúy Hằng,,x,478
+703,102170048,Trần Minh Quang,x,,479
+704,107170331,Đoàn Thị Minh Hiếu,,x,479
+705,102170049,Đoàn Văn Quyết,x,,480
+706,107170332,Nguyễn Thị Cẩm Hồng,,x,480
+707,102170050,Nguyễn Đăng Sang,x,,481
+708,107170333,Nguyễn Quỳnh Hương,,x,481
+709,102170051,Phan Gia Sang,x,,482
+710,107170334,Lê Quang Huy,,x,482
+711,102170052,Trần Hữu Tài,x,,483
+712,107170335,Lê Ngọc Xuân Huỳnh,,x,483
+713,102170053,Võ Văn Tâm,x,,484
+714,107170336,Phùng Thị Mỹ Linh,,x,484
+715,102170054,Lê Đức Thắng,x,,485
+716,107170337,Phan Nguyễn Mai Lợi,,x,485
+717,102170055,Nguyễn Bá Thành,x,,486
+718,107170338,Phạm Quang Minh,,x,486
+719,102170056,Trần Viết Thành,x,,487
+720,107170339,Nguyễn Văn Xuân Mỹ,,x,487
+721,102170057,Hoàng Thị Thảo,x,,488
+722,107170340,Trần Lê Phương Ngọc,,x,488
+723,102170058,Vũ Thị Bích Thư,x,,489
+724,107170341,Nguyễn Hải Nguyệt,,x,489
+725,102170059,Ngô Văn Tiến,x,,490
+726,107170342,Nguyễn Thị Thảo Nhi,,x,490
+727,102170060,Kiều Việt Anh Tín,x,,491
+728,107170343,Trần Thị Hoàng Nhi,,x,491
+729,102170061,Trần Thanh Trí,x,,492
+730,107170344,Nguyễn Tấn Nhuận,,x,492
+731,102170062,Cao Quảng Trọng,x,,493
+732,107170345,Lê Thị Mị Nương,,x,493
+733,102170063,Đoàn Trường,x,,494
+734,107170346,Nguyễn Thị Phương,,x,494
+735,102170064,Nguyễn Văn Tự,x,,495
+736,107170347,Hồ Thị Minh Phượng,,x,495
+737,102170065,Trương Anh Tuệ,x,,496
+738,107170348,Nguyễn Quyết Thắng,,x,496
+739,102170066,Huỳnh Văn Việt,x,,497
+740,107170349,Hoàng Thị Minh Thu,,x,497
+741,102170067,Phạm Văn Vũ,x,,498
+742,107170350,Nguyễn Thị Trang,,x,498
+743,102170068,Nguyễn Hoàng Anh,x,,499
+744,107170351,Nguyễn Phạm Lan Trinh,,x,499
+745,102170069,Trần Viết Bảo Anh,x,,500
+746,107170352,Nguyễn Thị Thanh Tuyên,,x,500
+747,102170070,Nguyễn Hoài Bảo,x,,501
+748,107170353,Nguyễn Thị Khánh Vân,,x,501
+749,102170071,Nguyễn Đăng Bin,x,,502
+750,107170354,Võ Văn Vỹ,,x,502
+751,102170072,Nguyễn Bữu,x,,503
+752,107170323,Dương Tấn Bảo,,x,503
+753,102170073,Nguyễn Đông Cao,x,,504
+754,107170324,Nguyễn Thị Kim Chi,,x,504
+755,102170074,Võ Chính,x,,505
+756,107170325,Hoàng Tiến Hải Đăng,,x,505
+757,102170075,Trần Thị Thu Công,x,,506
+758,107170326,Nguyễn Thị Đông,,x,506
+759,102170076,Nguyễn Văn Đại,x,,507
+760,107170327,Nguyễn Thị Kim Dung,,x,507
+761,102170077,Trương Đăng Đông,x,,508
+762,107170328,Phạm Vũ Thu Hà,,x,508
+763,102170078,Mai Hoàng Đức,x,,509
+764,107170329,Phan Đại Hải,,x,509
+765,102170079,Võ Minh Đức,x,,510
+766,107170330,Nguyễn Thúy Hằng,,x,510
+767,102170080,Nguyễn Tiến Dũng,x,,511
+768,107170331,Đoàn Thị Minh Hiếu,,x,511
+769,102170081,Phạm Thị Thùy Dương,x,,512
+770,107170332,Nguyễn Thị Cẩm Hồng,,x,512
+771,102170082,Huỳnh Văn Hải,x,,513
+772,107170333,Nguyễn Quỳnh Hương,,x,513
+773,102170083,Nguyễn Văn Hảo,x,,514
+774,107170334,Lê Quang Huy,,x,514
+775,102170084,Nguyễn Minh Hiếu,x,,515
+776,107170335,Lê Ngọc Xuân Huỳnh,,x,515
+777,102170085,Lê Đình Hòa,x,,516
+778,107170336,Phùng Thị Mỹ Linh,,x,516
+779,102170086,Lê Phước Hoàng,x,,517
+780,107170337,Phan Nguyễn Mai Lợi,,x,517
+781,102170087,Võ Xuân Mai Hoàng,x,,518
+782,107170338,Phạm Quang Minh,,x,518
+783,102170088,Đoàn Anh Hùng,x,,519
+784,107170339,Nguyễn Văn Xuân Mỹ,,x,519
+785,102170089,Võ Văn Hùng,x,,520
+786,107170340,Trần Lê Phương Ngọc,,x,520
+787,102170090,Võ Văn Hưng,x,,521
+788,107170341,Nguyễn Hải Nguyệt,,x,521
+789,102170091,Huỳnh Ngọc Huy,x,,522
+790,107170342,Nguyễn Thị Thảo Nhi,,x,522
+791,102170092,Nguyễn Văn Huy,x,,523
+792,107170343,Trần Thị Hoàng Nhi,,x,523
+793,102170093,Đặng Quốc Khánh,x,,524
+794,107170344,Nguyễn Tấn Nhuận,,x,524
+795,102170094,Trần Văn Khánh,x,,525
+796,107170345,Lê Thị Mị Nương,,x,525
+797,102170095,Bùi Quốc Khôi,x,,526
+798,107170346,Nguyễn Thị Phương,,x,526
+799,102170096,Nguyễn Nhật Kiên,x,,527
+800,107170347,Hồ Thị Minh Phượng,,x,527
+801,102170097,Đào Duy Lai,x,,528
+802,107170348,Nguyễn Quyết Thắng,,x,528
+803,102170098,Lê Thị Liễu,x,,529
+804,107170349,Hoàng Thị Minh Thu,,x,529
+805,102170099,Nguyễn Lộc,x,,530
+806,107170350,Nguyễn Thị Trang,,x,530
+807,102170100,Nguyễn Thành Luân,x,,531
+808,107170351,Nguyễn Phạm Lan Trinh,,x,531
+809,102170101,Võ Quang Lưu,x,,532
+810,107170352,Nguyễn Thị Thanh Tuyên,,x,532
+811,102170102,Lê Đức Minh,x,,533
+812,107170353,Nguyễn Thị Khánh Vân,,x,533
+813,102170103,Nguyễn Bá Nam,x,,534
+814,107170354,Võ Văn Vỹ,,x,534
+815,102170104,Võ Hồng Nga,x,,535
+816,109120428,Phan Văn Tiến,,x,535
+817,102170105,Trương Công Nghĩa,x,,536
+818,107160236,Trần Trung Tính,,x,536
+819,102170106,Nguyễn Thị Thanh Nhàn,x,,537
+820,107170213,Đỗ Ngọc Ân,,x,537
+821,102170107,Phan Văn Nhân,x,,538
+822,107170214,Đường Vương Anh,,x,538
+823,102170108,Nguyễn Long Nhật,x,,539
+824,107170215,Lê Ngọc Trâm Anh,,x,539
+825,102170109,Nguyễn Văn Phong,x,,540
+826,107170216,Nguyễn Thị Hoàng Anh,,x,540
+827,102170110,Đỗ Thị Phúc,x,,541
+828,107170217,Phan Châu Anh,,x,541
+829,102170111,Nguyễn Thiện Phúc,x,,542
+830,107170218,Tôn Nữ Nhất Bình,,x,542
+831,102170112,Lê Thị Phương,x,,543
+832,107170219,Võ Như Đạt,,x,543
+833,102170113,Nguyễn Thanh Quân,x,,544
+834,107170220,Lê Hồng Diễm,,x,544
+835,102170114,Nguyễn Ngọc Quang,x,,545
+836,107170221,Nguyễn Thị Diệp,,x,545
+837,102170115,Bùi Văn Quốc,x,,546
+838,107170222,Đào Thị Thùy Dung,,x,546
+839,102170116,Nguyễn Ngọc Như Quỳnh,x,,547
+840,107170223,Trương Châu Giang,,x,547
+841,102170117,Nguyễn Hoàng Sang,x,,548
+842,107170224,Nguyễn Thị Lệ Hà,,x,548
+843,102170118,Trần Văn Sĩ,x,,549
+844,107170225,Nguyễn Thị Thu Hà,,x,549
+845,102170119,Nguyễn Phước Tâm,x,,550
+846,107170226,Lê Thị Ngọc Hân,,x,550
+847,102170120,Đặng Hữu Thạch,x,,551
+848,107170227,Phạm Thị Hồng Hiệp,,x,551
+849,102170121,Đào Tất Thanh,x,,552
+850,107170228,Lê Thị Ngọc Hiếu,,x,552
+851,102170122,Nguyễn Sỹ Tuấn Thành,x,,553
+852,107170229,Đinh Thị Hoài,,x,553
+853,102170123,Trần Xuân Thành,x,,554
+854,107170230,Trần Văn Hợi,,x,554
+855,102170124,Nguyễn Văn Thiên,x,,555
+856,107170231,Quách Thanh Hồng,,x,555
+857,102170125,Nguyễn Thái Ninh Thuận,x,,556
+858,107170232,Lê Quốc Huy,,x,556
+859,102170126,Nguyễn Thành Tiến,x,,557
+860,107170233,Nguyễn Thị Khương,,x,557
+861,102170127,Đỗ Cao Trí,x,,558
+862,107170234,Võ Thị Mỹ Lan,,x,558
+863,102170128,Nguyễn Thị Thuỳ Trinh,x,,559
+864,107170235,Nguyễn Thị Kim Liên,,x,559
+865,102170129,Châu Việt Trung,x,,560
+866,107170236,Hồ Thị Mỹ Linh,,x,560
+867,102170130,Lê Lâm Trường,x,,561
+868,107170237,Võ Văn Long,,x,561
+869,102170131,Hoàng Quốc Tuấn,x,,562
+870,107170238,Phạm Thị Hồng Luyên,,x,562
+871,102170132,Nguyễn Văn Huy Tưởng,x,,563
+872,107170239,Nguyễn Thị Cẩm Ly,,x,563
+873,102170133,Nguyễn Thị Thu Uyên,x,,564
+874,107170240,Võ Thị Hồng Ly,,x,564
+875,102170134,Nguyễn Quang Việt,x,,565
+876,107170241,Hồ Tấn Minh,,x,565
+877,102170135,Phan Văn Vũ,x,,566
+878,107170242,Trần Minh,,x,566
+879,102170136,Nguyễn Lê Anh,x,,567
+880,107170243,Đặng Thị Mơ,,x,567
+881,102170137,Đoàn Quốc Bảo,x,,568
+882,107170244,Nguyễn Thị Hồng My,,x,568
+883,102170138,Trần Mưa Phi Bảo,x,,569
+884,107170245,Hồ Thị Nga,,x,569
+885,102170139,Dương Sỹ Bình,x,,570
+886,107170246,Đặng Thị Thủy Ngân,,x,570
+887,102170140,Lê Văn Cần,x,,571
+888,107170247,Nguyễn Thị Kim Ngân,,x,571
+889,102170141,Viengmany Chanthakhan,x,,572
+890,107170248,Phạm Thùy Ngân,,x,572
+891,102170142,Lê Dũng Chí,x,,573
+892,107170249,Nguyễn Thị Nguyệt,,x,573
+893,102170143,Trần Tấn Chung,x,,574
+894,107170250,Nguyễn Thị Ái Nhi,,x,574
+895,102170144,Võ Thành Công,x,,575
+896,107170251,Nguyễn Thị Tuyết Nhi,,x,575
+897,102170145,Nguyễn Xuân Hải Đăng,x,,576
+898,107170252,Phạm Thị Quỳnh Như,,x,576
+899,102170146,Trịnh Quang Duẫn,x,,577
+900,107170253,Mai Thị Kim Nữ,,x,577
+901,102170147,Phan Huỳnh Đức,x,,578
+902,107170254,Lê Đức Phú,,x,578
+903,102170148,Đàm Thị Dung,x,,579
+904,107170255,Tôn Thất Phước Phú,,x,579
+905,102170149,Phạm Mạnh Dũng,x,,580
+906,107170256,Mai Hoàng Quang Phúc,,x,580
+907,102170150,Trần Tùng Dương,x,,581
+908,107170257,Vũ Thị Thanh Phương,,x,581
+909,102170151,Nguyễn Trường Hải,x,,582
+910,107170258,Cao Hoàng Minh Phượng,,x,582
+911,102170152,Mai Văn Hiền,x,,583
+912,107170259,Nguyễn Thị Thu Phượng,,x,583
+913,102170153,Võ Văn Hiếu,x,,584
+914,107170260,Nguyễn Khoa Quang,,x,584
+915,102170154,Nguyễn Thanh Hoàn,x,,585
+916,107170261,Ngô Kha Quý,,x,585
+917,102170155,Phạm Văn Hoàng,x,,586
+918,107170262,Đặng Thị Quỳnh,,x,586
+919,102170156,Lê Thanh Hội,x,,587
+920,107170263,Lê Chánh Chí Tài,,x,587
+921,102170157,Nguyễn Hữu Hùng,x,,588
+922,107170264,Phan Thanh Thái,,x,588
+923,102170158,Nguyễn Tiến Hưng,x,,589
+924,107170265,Nguyễn Ngọc Thản,,x,589
+925,102170159,Hồ Lê Huy,x,,590
+926,107170266,Đào Thị Thu Thảo,,x,590
+927,102170160,Lâm Ngọc Huy,x,,591
+928,107170267,Đặng Thì,,x,591
+929,102170161,Phạm Xuân Huy,x,,592
+930,107170268,Đào Quang Thịnh,,x,592
+931,102170162,Phạm Nhật Khánh,x,,593
+932,107170269,Nguyễn Thị Anh Thư,,x,593
+933,102170163,Lưu Đăng Khoa,x,,594
+934,107170270,Phạm Thị Anh Thư,,x,594
+935,102170164,Nguyễn Đăng Khôi,x,,595
+936,107170271,Trần Thị Thanh Thủy,,x,595
+937,102170165,Võ Tá Kiên,x,,596
+938,107170272,Phạm Thị Thủy Tiên,,x,596
+939,102170166,Bùi Thành Lâm,x,,597
+940,107170273,Văn Đức Tiên,,x,597
+941,102170167,Lê Thị Hoàng Loan,x,,598
+942,107170274,Lê Mạnh Tiến,,x,598
+943,102170168,Tăng Văn Lộc,x,,599
+944,107170275,Huỳnh Quốc Toàn,,x,599
+945,102170169,Lê Thanh Luận,x,,600
+946,107170276,Cao Thị Thùy Trang,,x,600
+947,102170170,Lê Xuân Mạnh,x,,601
+948,107170277,Hoàng Thanh Trang,,x,601
+949,102170171,Nguyễn Đức Minh,x,,602
+950,107170115,Nguyễn Duy Anh,,x,602
+951,102170172,Trần Đình Nam,x,,603
+952,107170116,Lê Duy Bình,,x,603
+953,102170173,Đặng Ngọc Bửu Nghĩa,x,,604
+954,107170117,Cao Văn Chiến,,x,604
+955,102170174,Lê Văn Nguyên,x,,605
+956,107170118,Hồ Văn Chín,,x,605
+957,102170175,Hồ Đăng Nhân,x,,606
+958,107170119,Đặng Văn Cường,,x,606
+959,102170176,Hoàng Long Nhật,x,,607
+960,107170120,Nguyễn Văn Đức,,x,607
+961,102170177,Nguyễn Phan Thanh Nhật,x,,608
+962,107170121,Bùi Nguyễn Công Giang,,x,608
+963,102170178,Nguyễn Đăng Phú,x,,609
+964,107170122,Hoàng Thị Hà,,x,609
+965,102170179,Lê Xuân Phúc,x,,610
+966,107170123,Trần Mạnh Hải,,x,610
+967,102170180,Hồ Quang Phước,x,,611
+968,107170124,Nguyễn Thị Thu Hạnh,,x,611
+969,102170181,Ngô Thu Phương,x,,612
+970,107170125,Võ Văn Hậu,,x,612
+971,102170182,Nguyễn Văn Quân,x,,613
+972,107170126,Nguyễn Thị Hiền,,x,613
+973,102170183,Nguyễn Văn Quang,x,,614
+974,107170127,Nguyễn Minh Hoàng,,x,614
